@@ -1,2 +1,2 @@
 # Java
-My Java Project
+My Personal Java Project
