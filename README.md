@@ -1,3 +1,5 @@
-# Personal Java Project
+# Java Projects
+# Java Web Applications
 1. Zhimi Group Website
-2. Bills (https://github.com/yuanzexi/Android/tree/master/Bills)
+# Andoird Applications
+1. Bills
